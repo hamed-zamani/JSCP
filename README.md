@@ -25,6 +25,12 @@ You need to download the above packages and put them into class path.
     SCPConnection.passwordAuth.setUser("test");
     SCPConnection.passwordAuth.setPassword("test");
 	SCPConnection.onStartButtonClicked(log); //"log" returns by LoggerFactory
+	
+##Contributor
+Hamed Zamani:
+	hamedzamani@acm.org
+	http://khorshid.ut.ac.ir/~h.zamany/
+	http://hamedz.ir/
 
 ###License
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
