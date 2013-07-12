@@ -24,4 +24,4 @@ You need to download the above packages and put them into class path.
 ###How ro use?
     SCPConnection.passwordAuth.setUser("test");
     SCPConnection.passwordAuth.setPassword("test");
-	SCPConnection.onStartButtonClicked(log); //it gives from LoggerFactory
+	SCPConnection.onStartButtonClicked(log); //"log" returns by LoggerFactory
