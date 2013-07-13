@@ -5,17 +5,17 @@ An SCP Server using Apache SSHD.
 Language: Java
 
 ###Labraries which you need:
-#####1. sshd-core  
-#####2. mina-core
-#####3. slf4j-api
-#####4. slf4j-jdk14
+1. sshd-core  
+2. mina-core
+3. slf4j-api
+4. slf4j-jdk14
 
 ###How to compile and run?
-	You need only download the source codes (from /src directory) or jscp-1.0.jar (from /jar directory). Also you should download the libraries (from /lib directory)
-	Only put the jar files in the class path, compile and run it.
+You need only download the source codes (from /src directory) or jscp-1.0.jar (from /jar directory). Also you should download the libraries (from /lib directory)
+Only put the jar files in the class path, compile and run it.
 
 ###How ro use?
-    Please visit the Main.java file in /src directory. You can see how to work with it!
+Please visit the Main.java file in /src directory. You can see how to work with it!
 	
 ###Contributor
 	Hamed Zamani:
