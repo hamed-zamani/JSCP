@@ -5,28 +5,19 @@ An SCP Server using Apache SSHD.
 Language: Java
 
 ###Labraries which you need:
-####1. sshd-core
-    download last version from:
-        http://mina.apache.org/downloads-sshd.html
-        
-####2. mina-core
-    download from:
-        http://grepcode.com/snapshot/repo1.maven.org/maven2/org.apache.mina/mina-core/2.0.2
-
-####3. org.slf4j.Logger
-    download last version from:
-        http://www.slf4j.org/download.html
-
+#####1. sshd-core  
+#####2. mina-core
+#####3. slf4j-api
+#####4. slf4j-jdk14
 
 ###How to compile and run?
-You need to download the above packages and put them into class path.
+	You need only download the source codes (from /src directory) or jscp-1.0.jar (from /jar directory). Also you should download the libraries (from /lib directory)
+	Only put the jar files in the class path, compile and run it.
 
 ###How ro use?
-    SCPConnection.passwordAuth.setUser("test");
-    SCPConnection.passwordAuth.setPassword("test");
-	SCPConnection.onStartButtonClicked(log); //"log" returns by LoggerFactory
+    Please visit the Main.java file in /src directory. You can see how to work with it!
 	
-##Contributor
+###Contributor
 	Hamed Zamani:
 	hamedzamani@acm.org
 	http://khorshid.ut.ac.ir/~h.zamany/
