@@ -14,7 +14,7 @@ Language: Java
 You need only download the source codes (from /src directory) or jscp-1.0.jar (from /jar directory). Also you should download the libraries (from /lib directory).
 Only put the jar files in the class path, compile and run it.
 
-###How ro use?
+###How to use?
 Please visit the Main.java file in /src directory. You can see how to work with it!
 	
 ###Contributor
